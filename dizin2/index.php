@@ -1,5 +1,5 @@
 <title>
-  GoLang Web Server
+  Ufuk Kilavuz Final
 </title>
 <style>
     body {
